@@ -543,13 +543,3 @@ p{
     filter: blur(200px);
     transform: matrix(-1, 0, 0, 1, 0, 0);
 }
-/*.rectangle{*/
-/*/*  position: absolute;*/*/
-/*  width: 1440px;*/
-/*  height: -webkit-fill-available;*/
-/*  left: 0px;*/
-/*  top: 0px;*/
-/*  filter: blur(200px);*/
-/*  /*  background: url(.png);*/*/
-/*/*  background-blend-mode: overlay;*/*/
-/*}*/
