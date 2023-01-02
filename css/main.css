@@ -488,7 +488,7 @@ p{
     
 /*Background*/
 .ellipse__background__one{
-    position: absolute;
+    position: fixed;
     width: 660px;
     height: 660px;
     left: 696px;
@@ -498,7 +498,7 @@ p{
     filter: blur(200px);
 }
 .ellipse__background__two{
-    position: absolute;
+    position: fixed;
     width: 660px;
     height: 660px;
     left: -108px;
@@ -509,7 +509,7 @@ p{
 }
 
 .ellipse__background__three{
-    position: absolute;
+    position: fixed;
     width: 660px;
     height: 660px;
     left: 1178px;
@@ -519,7 +519,7 @@ p{
     filter: blur(200px);
 }
 .ellipse__background__four{
-    position: absolute;
+    position: fixed;
     width: 424px;
     height: 424px;
     left: 152px;
@@ -529,7 +529,7 @@ p{
     filter: blur(200px);
 }
 .ellipse__background__five{
-    position: absolute;
+    position: fixed;
     width: 660px;
     height: 660px;
     left: 846px;
