@@ -35,6 +35,9 @@ h1, h2, h3, h4, h5, h6 {
     -webkit-user-select: none;
 }
 .header__inner{
+    width: 100%;
+    max-width: 1300px;
+    margin: 0 auto;
     padding-top: 60px;
     display: flex;
     justify-content: space-between;
@@ -49,7 +52,8 @@ h1, h2, h3, h4, h5, h6 {
 
 .nav{
     padding-right: 82px;
-    font-size: 24px
+    font-size: 24px;
+    display: contents;
 }
 
 .nav__link{
@@ -58,7 +62,7 @@ h1, h2, h3, h4, h5, h6 {
     transition: color .2s linear;
     font-size: 24px;
     font-weight: 500;
-    padding-left: 143px;
+    /* padding-left: 143px; */
     user-select: none;
     -webkit-user-select: none;
 }
